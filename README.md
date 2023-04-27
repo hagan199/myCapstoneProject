@@ -81,13 +81,13 @@ I have followed the given design of the website [CC Global Summit 2015 by Cindy 
 
 ## Here's a video explaining the project:
 
-## 🚀 Intro video <a name="https://www.loom.com/share/bc2d823a61184129960e0ce16061b5f5]"></a>
+## 🚀 Intro video <a name="https://www.loom.com/share/14de92314b6a47338f7bbe8e9891dbfe"></a>
 
 
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link]<a name="https://hagan199.github.io/capstone_project/"></a>
+- [Live Demo Link]<a name="https://hagan199.github.io/myCapstoneProject/"></a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -103,7 +103,7 @@ In order to run this project you need:
 
 To get a local copy of my project you can use below link.
 
-"git@github.com: https://github.com/hagan199/capstone_project
+"git@github.com: https://github.com/hagan199/myCapstoneProject.git
 
 ### Setup
 
@@ -111,7 +111,7 @@ Clone this repository to your desired folder:
 
 - Choose a directory
 - Open a Terminal
-- write: git clone https://github.com/hagan199/capstone_project
+- write: git clone https://github.com/hagan199/myCapstoneProject.git
 
 
 ### Install
