@@ -159,6 +159,13 @@ Feel free to check the [issues page](../../issues/).
 
 <!-- SUPPORT -->
 
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+## Acknowledgements
+Original design by Cindy Shin on [Behance](https://www.behance.net/gallery/29845175/CC-Global-Summit-2015)
+
+
 ## ⭐️ Show your support <a name="support"></a>
 
 Give a ⭐️ if you like this project!
